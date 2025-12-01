@@ -98,22 +98,6 @@ In addition to the features introduced by ungoogled-chromium, ungoogled-chromium
 
 Other platforms are discussed and tracked in this repository's Issue Tracker. Learn more about using the Issue Tracker under the section [Contributing, Reporting, Contacting](#contributing-reporting-contacting).
 
-## Downloads
-
-### Automated or maintained builds
-
-ungoogled-chromium is available in the following **software repositories**:
-
-* Arch: Available in the AUR, [see instructions in ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux)
-* Debian: Available in OBS, find your [distribution specific instructions](https://github.com/ungoogled-software/ungoogled-chromium-debian) in the Installing section
-* Ubuntu: Available in the [XtraDeb PPA](https://xtradeb.net/) as [ungoogled-chromium](https://xtradeb.net/apps/ungoogled-chromium/).
-* Fedora: Available in [COPR](https://copr.fedorainfracloud.org/coprs/) as [`wojnilowicz/ungoogled-chromium`](https://copr.fedorainfracloud.org/coprs/wojnilowicz/ungoogled-chromium/). Also available in [RPM Fusion](https://rpmfusion.org/Configuration) as `chromium-browser-privacy` (outdated).
-* Gentoo: Available in [`::pf4public`](https://github.com/PF4Public/gentoo-overlay) overlay as [`ungoogled-chromium`](https://github.com/PF4Public/gentoo-overlay/tree/master/www-client/ungoogled-chromium) and [`ungoogled-chromium-bin`](https://github.com/PF4Public/gentoo-overlay/tree/master/www-client/ungoogled-chromium-bin) ebuilds
-* [OpenMandriva](https://openmandriva.org/) includes ungoogled-chromium as its main browser. The `chromium` package includes all ungoogling patches.
-* macOS: Available in [Homebrew](https://brew.sh/) as [`ungoogled-chromium`](https://formulae.brew.sh/cask/ungoogled-chromium). Just run `brew install --cask ungoogled-chromium`. Chromium will appear in your `/Applications` directory.
-* FreeBSD: Available in pkg as [`www/ungoogled-chromium`](https://www.freshports.org/www/ungoogled-chromium/).
-* [openSUSE](https://www.opensuse.org/): Available as [`ungoogled-chromium`](https://software.opensuse.org//download.html?project=network%3Achromium&package=ungoogled-chromium). 
-
 If your GNU/Linux distribution is not listed, there are distro-independent builds available via the following **package managers**:
 
 * Flatpak: Available [in the Flathub repo](https://flathub.org/apps/details/io.github.ungoogled_software.ungoogled_chromium) as `io.github.ungoogled_software.ungoogled_chromium`
