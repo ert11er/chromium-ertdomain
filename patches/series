@@ -1,6 +1,7 @@
 upstream-fixes/glue_core_pools.patch
 upstream-fixes/hardware_destructive_interference_size.patch
 upstream-fixes/missing-dependencies.patch
+upstream-fixes/fix-crash-without-enterprise-cloud-content-analysis.patch
 
 core/inox-patchset/0001-fix-building-without-safebrowsing.patch
 core/inox-patchset/0003-disable-autofill-download-manager.patch
@@ -34,6 +35,7 @@ core/ungoogled-chromium/disable-privacy-sandbox.patch
 core/ungoogled-chromium/doh-changes.patch
 core/ungoogled-chromium/extensions-manifestv2.patch
 core/ungoogled-chromium/remove-f1-shortcut.patch
+core/ungoogled-chromium/move-js-optimizer-unfamiliar-sites.patch
 core/bromite/disable-fetching-field-trials.patch
 
 extra/ungoogled-chromium/add-ungoogled-flag-headers.patch
