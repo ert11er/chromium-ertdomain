@@ -1,4 +1,8 @@
-# ungoogled-chromium
+# chromium-ertdomain
+
+a fork of chromium that adds my ert:// domain
+
+## ungoogled-chromium
 
 *A lightweight approach to removing Google web service dependency*
 
